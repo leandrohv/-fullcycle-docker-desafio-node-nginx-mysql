@@ -16,6 +16,6 @@ Suba tudo em um repositório e faça a entrega.
 
 ## Solução
 
-Realize o build da imagem golang
+Realize o build das imagens
 
 > docker-compose up
