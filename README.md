@@ -16,6 +16,6 @@ Suba tudo em um repositório e faça a entrega.
 
 ## Solução
 
-Realize o build das imagens
+Realize o build das imagens e subida do ambiente deste repositório
 
 > docker-compose up
